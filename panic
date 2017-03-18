@@ -1,0 +1,39 @@
+* Diseño del juego (??)
+* Intro a Unity
+** Poner cubos
+** mover / rotar / escalar
+** Vertex snapping
+** integer snapping (???)
+** jerarquía
+** prefabs
+** física
+* Personaje
+** Modelado
+** Rigging
+** Animación
+** Texturizado
+*** UV mapping
+*** Pintado (taller)
+** Implementación
+*** Exportar (taller)
+*** Importar (taller)
+*** mini Mecanim (taller)
+*** Mecanim
+** Programación
+*** ControlPersonaje.cs
+*** SeguirConLaVista.cs (taller)
+*** CamaraDeFirstPerson.cs
+* Plataformas
+** Texturizado
+*** Pintado (taller)
+*** Exportar / importar
+** Creación
+*** Modelado (taller)
+*** Colliders (taller)
+* Enemigos
+** Texturizado
+*** Pintado (taller)
+*** Exportar / importar
+** Comportamiento
+*** GirarAlChocar.cs
+* Lvl design!! :D
